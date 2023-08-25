@@ -2,6 +2,7 @@
 import feather from 'feather-icons';
 import AppHeader from './components/shared/AppHeader';
 import AppFooter from './components/shared/AppFooter';
+import { Analytics } from '@vercel/analytics/react';
 
 export default {
 	components: {
@@ -45,6 +46,7 @@ export default {
 		<!-- App footer -->
 		<AppFooter />
 	</div>
+	<Analytics />
 </template>
 
 <style>
