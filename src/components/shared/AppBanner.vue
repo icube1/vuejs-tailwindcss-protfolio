@@ -40,7 +40,7 @@ export default {
 			</p>
 			<router-link
 			to="/about"
-			class="font-general-medium mt-2 text-lg self-center w-screen place-self-center sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-blue-400"
+			class="font-general-medium mt-2 text-lg place-self-center sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-blue-400"
 			aria-label="About Me"
 			>mistakes</router-link
 		>
