@@ -27,7 +27,7 @@ export default {
 		class="flex flex-col sm:justify-between items-center sm:flex-row mt-12 sm:mt-10"
 	>
 		<!-- Banner left contents -->
-		<div class="w-full md:w-1/3 text-left">
+		<div class="w-full md:w-1/3 text-left flex flex-col sm:block">
 			<h1
 				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
 			>
@@ -40,7 +40,7 @@ export default {
 			</p>
 			<router-link
 			to="/about"
-			class=" font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-blue-400"
+			class="font-general-medium mt-2 text-lg self-center w-screen place-self-center sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-blue-400"
 			aria-label="About Me"
 			>mistakes</router-link
 		>
