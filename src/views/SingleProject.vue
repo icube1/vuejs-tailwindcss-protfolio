@@ -24,12 +24,12 @@ export default {
 				{
 					id: 1,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/ui-project-1.jpg'),
+					img: require('@/assets/images/mobile-project-1.jpg'),
 				},
 				{
 					id: 2,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/web-project-2.jpg'),
+					img: require('@/assets/images/web-project-1.jpg'),
 				},
 				{
 					id: 3,

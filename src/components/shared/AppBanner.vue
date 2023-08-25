@@ -31,13 +31,19 @@ export default {
 			<h1
 				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
 			>
-				Hi, Iam Stoman
+				Hi, I am Ruslan
 			</h1>
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				A Full-Stack Developer & Design Enthusiast
+				Software developer. And I've made some
 			</p>
+			<router-link
+			to="/about"
+			class=" font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-blue-400"
+			aria-label="About Me"
+			>mistakes</router-link
+		>
 			<div class="flex justify-center sm:block">
 				<a
 					download="Stoman-Resume.pdf"

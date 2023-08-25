@@ -28,16 +28,6 @@ export default {
 					value: 'mobile',
 					name: 'Mobile Application',
 				},
-				{
-					id: 3,
-					value: 'ui-ux',
-					name: 'UI/UX Design',
-				},
-				{
-					id: 4,
-					value: 'branding',
-					name: 'Branding & Anim',
-				},
 			],
 		};
 	},
