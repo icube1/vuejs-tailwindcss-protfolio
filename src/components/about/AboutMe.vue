@@ -20,14 +20,14 @@ vue
 		<h2 class="font-general-medium text-2xl sm:text-3xl text-primary-dark dark:text-primary-light mb-4">My Career</h2>
 		<div class="mt-8">
           <h4 class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg">
-						<a href="https://arnica.pro/" class="hover:underline">Arnika (Alliance IT techonlogy)</a> - Fullstack software engineer (august 2023 - now)</h4>
+						<a href="https://arnica.pro/" class="hover:underline text-sky-600 dark:text-sky-400">Arnika (Alliance IT techonlogy)</a> - Fullstack software engineer (august 2023 - now)</h4>
           <ul class=" text-ternary-dark dark:text-ternary-light  list-disc list-inside mt-4">
 						<li>Soon..</li>
           </ul>
     </div>
 		<div class="mt-8">
           <h4 class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg">
-						<a href="https://k-telecom.org/" class="hover:underline">K-telecom</a> - Software engineer (june 2022 - august 2023)</h4>
+						<a href="https://k-telecom.org/" class="hover:underline  text-sky-600 dark:text-sky-400">K-telecom</a> - Software engineer (june 2022 - august 2023)</h4>
           <ul class=" text-ternary-dark dark:text-ternary-light  list-disc list-inside mt-4">
           <li>Created and shipped a mobile app for a smart home devices</li>
           <li>Worked with native smartphone functions like camera, wifi etc.</li>
