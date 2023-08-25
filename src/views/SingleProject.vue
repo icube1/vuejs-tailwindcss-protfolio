@@ -24,17 +24,17 @@ export default {
 				{
 					id: 1,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/mobile-project-1.jpg'),
+					img: require('@/assets/images/mobile-project-1.webp'),
 				},
 				{
 					id: 2,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/web-project-1.jpg'),
+					img: require('@/assets/images/web-project-1.webp'),
 				},
 				{
 					id: 3,
 					title: 'Kabul Project Management UI',
-					img: require('@/assets/images/mobile-project-2.jpg'),
+					img: require('@/assets/images/mobile-project-2.webp'),
 				},
 			],
 			projectInfo: {
@@ -140,12 +140,12 @@ export default {
 					{
 						id: 1,
 						title: 'Mobile UI',
-						img: require('@/assets/images/mobile-project-1.jpg'),
+						img: require('@/assets/images/mobile-project-1.webp'),
 					},
 					{
 						id: 2,
 						title: 'Web Application',
-						img: require('@/assets/images/web-project-1.jpg'),
+						img: require('@/assets/images/web-project-1.webp'),
 					},
 					{
 						id: 3,
@@ -155,7 +155,7 @@ export default {
 					{
 						id: 4,
 						title: 'Kabul Mobile App UI',
-						img: require('@/assets/images/mobile-project-2.jpg'),
+						img: require('@/assets/images/mobile-project-2.webp'),
 					},
 				],
 			},
