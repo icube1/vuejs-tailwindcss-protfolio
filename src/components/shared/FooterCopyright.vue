@@ -17,7 +17,7 @@ export default {
 		>
 			&copy; {{ copyrightDate }}.
 			<a
-				href="https://github.com/icube1/nuxtjs-tailwindcss-portfolio"
+				href="https://github.com/icube1/vuejs-tailwindcss-protfolio"
 				target="__blank"
 				class="font-general-medium hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
 			>
